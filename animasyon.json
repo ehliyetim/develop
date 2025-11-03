@@ -1,0 +1,347 @@
+[
+  {
+    "questionText": "Videodaki tehlikeli durum, sürücülerin hangi kuralı ihlal etmeleri sonucunda oluşmuştur?",
+    "videoId": "a6e3aPiM7ao",
+    "options": [
+      {
+        "text": "Takip mesafesi kuralını",
+        "isTrue": false
+      },
+      {
+        "text": "Kavşaklarda ilk geçiş hakkı kuralını",
+        "isTrue": false
+      },
+      {
+        "text": "Şerit takip kuralını",
+        "isTrue": true
+      },
+      {
+        "text": "Geçme kuralını",
+        "isTrue": false
+      }
+    ],
+    "id": "q1"
+  },
+  {
+    "questionText": "Videoya göre, kırmızı otomobil sürücüsü numaralanmış hatalardan hangilerini yapmaktadır?\nI. Kırmızı ışıkta geçmektedir.\nII. Sağdan gelen yeşil araca ilk geçiş hakkını vermemektedir.\nIII. Girişi olmayan yol bölümüne girmektedir.",
+    "videoId": "BzbWefaWQUk",
+    "options": [
+      {
+        "text": "I ve II",
+        "isTrue": false
+      },
+      {
+        "text": "I, II ve III",
+        "isTrue": false
+      },
+      {
+        "text": "I ve III",
+        "isTrue": true
+      },
+      {
+        "text": "II ve III",
+        "isTrue": false
+      }
+    ],
+    "id": "q2"
+  },
+  {
+    "questionText": "Olay yerindeki araç sürücüsü ilk yardımın temel uygulamalarından hangisini gerçekleştirmektedir?",
+    "videoId": "nvLaq8wdUEg",
+    "options": [
+      {
+        "text": "Bildirme",
+        "isTrue": true
+      },
+      {
+        "text": "Koruma",
+        "isTrue": false
+      },
+      {
+        "text": "Tedavi etme",
+        "isTrue": false
+      },
+      {
+        "text": "Kurtarma",
+        "isTrue": false
+      }
+    ],
+    "id": "q3"
+  },
+  {
+    "questionText": "Sürücünün hangisini yapması doğrudur?",
+    "videoId": "9ZMpL6BxxoA",
+    "options": [
+      {
+        "text": "Hızını azaltıp şeridinde devam etmesi",
+        "isTrue": true
+      },
+      {
+        "text": "Korna çalarak bisiklet sürücüsünü uyarması",
+        "isTrue": false
+      },
+      {
+        "text": "Bisikletin sağından yoluna devam etmesi",
+        "isTrue": false
+      },
+      {
+        "text": "Uyarı ışıklarını yakarak durması",
+        "isTrue": false
+      }
+    ],
+    "id": "q4"
+  },
+  {
+    "questionText": "Videoya göre, beyaz otomobilin sürücüsü için hangisi kesinlikle söylenir?",
+    "videoId": "BzbWefaWQUk",
+    "options": [
+      {
+        "text": "Şerit takip ve manevra kurallarına uymadığı",
+        "isTrue": true
+      },
+      {
+        "text": "Uykusuz ve yorgun olarak araç kullandığı",
+        "isTrue": false
+      },
+      {
+        "text": "Uyuşturucu veya uyarıcı madde etkisinde araç kullandığı",
+        "isTrue": false
+      },
+      {
+        "text": "İleri sürüş tekniklerine uygun araç kullandığı",
+        "isTrue": false
+      }
+    ],
+    "id": "q5"
+  },
+  {
+    "questionText": "Videodaki sarı minibüsle ilgili hangisi kesinlikle söylenir?",
+    "videoId": "95R0lH0xHhc",
+    "options": [
+      {
+        "text": "Egzozunun arızalı olduğu",
+        "isTrue": true
+      },
+      {
+        "text": "Motorunun düzensiz çalıştığı",
+        "isTrue": false
+      },
+      {
+        "text": "Kapasitesinin üzerinde yük taşıdığı",
+        "isTrue": false
+      },
+      {
+        "text": "Yüksek devirde kullanıldığı",
+        "isTrue": false
+      }
+    ],
+    "id": "q6"
+  },
+  {
+    "questionText": "Videoya göre, kırmızı otomobil sürücüsü nasıl davranmalıdır?",
+    "videoId": "stnBpnHQik0",
+    "options": [
+      {
+        "text": "Solundaki şeride geçmeli",
+        "isTrue": false
+      },
+      {
+        "text": "Korna çalarak önündeki aracın hızlanmasını istemeli",
+        "isTrue": false
+      },
+      {
+        "text": "Yavaşlamalı ve önündeki aracın arkasından yoluna devam etmeli",
+        "isTrue": true
+      },
+      {
+        "text": "Önündeki aracın sağından yoluna devam etmeli",
+        "isTrue": false
+      }
+    ],
+    "id": "q7"
+  },
+  {
+    "questionText": "Videoya göre sürücü nasıl davranmalıdır?",
+    "videoId": "yEZgZ556Wto",
+    "options": [
+      {
+        "text": "Trafik kurallarına uygun olarak derhal durmalı",
+        "isTrue": true
+      },
+      {
+        "text": "Sabit hızla aynı şeritte yoluna devam etmeli",
+        "isTrue": false
+      },
+      {
+        "text": "Sol şeride geçip derhal servise gitmeli",
+        "isTrue": false
+      },
+      {
+        "text": "Yavaşlayıp sağ şeritten yoluna devam etmeli",
+        "isTrue": false
+      }
+    ],
+    "id": "q8"
+  },
+  {
+    "questionText": "Sağa dönüş yapan kırmızı renkli araç sürücüsü hakkında numaralanmış ifadelerden hangileri kesinlikle söylenir?\nI. Hız sınırlamasına uymadığı\nII. Araç ışıklarını gerekli yerde kullanmadığı\nIII. Kavşaklarda dönme ve dönüş kurallarına uymadığı",
+    "videoId": "BRB13MRfs_8",
+    "options": [
+      {
+        "text": "I ve II",
+        "isTrue": false
+      },
+      {
+        "text": "I ve III",
+        "isTrue": false
+      },
+      {
+        "text": "II ve III",
+        "isTrue": true
+      },
+      {
+        "text": "I, II ve III",
+        "isTrue": false
+      }
+    ],
+    "id": "q9"
+  },
+  {
+    "questionText": "Motosiklet sürücüsü için numaralanmış ifadelerden hangileri kesinlikle söylenebilir?\nI. Can ve mal güvenliğini tehlikeye attığı\nII. İleri sürüş tekniklerine sahip olduğu\nIII. Şerit takip kurallarına uyduğu\nIV. Geçme kurallarına uymadığı",
+    "videoId": "jEPd5N8LQGg",
+    "options": [
+      {
+        "text": "II ve III",
+        "isTrue": false
+      },
+      {
+        "text": "III ve IV",
+        "isTrue": false
+      },
+      {
+        "text": "I ve IV",
+        "isTrue": true
+      },
+      {
+        "text": "I ve II",
+        "isTrue": false
+      }
+    ],
+    "id": "q10"
+  },
+  {
+    "id": "q11",
+    "questionText": "Videoya göre, sürücü nasıl bir tehlikenin olabileceğini düşünmelidir?",
+    "videoId": "uacuQV6rEos",
+    "options": [
+      {
+        "text": "Bir aracın benzin istasyonundan yola çıkabileceğini",
+        "isTrue": true
+      },
+      {
+        "text": "Rüzgar nedeniyle direksiyon hakimiyetini kaybedebileceğini",
+        "isTrue": false
+      },
+      {
+        "text": "Orta şeritteki otomobilin ani fren yapabileceğini",
+        "isTrue": false
+      },
+      {
+        "text": "Yolun ilerisinde trafik denetimi yapılabileceğini",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "questionText": "Araç sürücüsü nasıl davranmalıdır?",
+    "videoId": "uvP9ddmUYyA",
+    "options": [
+      {
+        "text": "Dörtlü ikaz ışıklarını yakarak beklemeli",
+        "isTrue": false
+      },
+      {
+        "text": "Hızını artırarak bu bölgeden uzaklaşmalı",
+        "isTrue": false
+      },
+      {
+        "text": "Korna çalarak öndeki araç sürücüsünü uyarmalı",
+        "isTrue": false
+      },
+      {
+        "text": "Hızını azaltarak sol şeritten yoluna devam etmeli",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": "q13",
+    "questionText": "Sürücü hakkında hangisi kesinlikle söylenir?",
+    "videoId": "2HfdFfuBJiI",
+    "options": [
+      {
+        "text": "Sabırsız",
+        "isTrue": true
+      },
+      {
+        "text": "Kavgacı",
+        "isTrue": false
+      },
+      {
+        "text": "Heyecanlı",
+        "isTrue": false
+      },
+      {
+        "text": "Kaygılı",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": "q14",
+    "questionText": "Videodaki kazayla ilgili hangisi kesinlikle söylenir?",
+    "videoId": "sr4gPZyLqe8",
+    "options": [
+      {
+        "text": "Araç sürücüleri takip mesafesine uymaktadır.",
+        "isTrue": false
+      },
+      {
+        "text": "Yeşil araç sürücüsünün ani fren yapması kazaya sebep olmuştur.",
+        "isTrue": false
+      },
+      {
+        "text": "Mavi araç sürücüsünün hatalı geçme yapması kazaya sebep olmuştur.",
+        "isTrue": true
+      },
+      {
+        "text": "Kaza, iklim şartlarına bağlı olarak meydana gelmiştir.",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": "q15",
+    "questionText": "Videoya göre hangisinin yapılması doğru olur?",
+    "videoId": "yRXLDQJyxNI",
+    "options": [
+      {
+        "text": "Siyah otomobil sürücüsünün beyaz otomobil sürücüsüne ilk geçiş hakkını vermesi",
+        "isTrue": false
+      },
+      {
+        "text": "Sarı otomobil sürücüsünün hızlanması",
+        "isTrue": false
+      },
+      {
+        "text": "Siyah otomobil sürücüsünün sol şeride geçmesi",
+        "isTrue": false
+      },
+      {
+        "text": "Beyaz otomobil sürücüsünün beklemesi",
+        "isTrue": true
+      }
+    ]
+  }
+]
