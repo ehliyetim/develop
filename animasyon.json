@@ -343,5 +343,51 @@
         "isTrue": true
       }
     ]
+  },
+  {
+    "id": "q16",
+    "questionText": "Bu durumda kalırsak neden durmalıyız?\nI. yol ver işareti yüzünden\nII. Bisiklet yolu ve geçen bisikletli yüzünden\nIII. Sarı kamyon yüzünden",
+    "videoId": "yolver_bisiklet.mp4",
+    "options": [
+      {
+        "text": "Yalnız I",
+        "isTrue": false
+      },
+      {
+        "text": "I ve II",
+        "isTrue": true
+      },
+      {
+        "text": "Yalnız II",
+        "isTrue": false
+      },
+      {
+        "text": "Hepsi",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": "q17",
+    "questionText": "Burada neden yavaşlamalı gerekirse durmalısınız?",
+    "videoId": "cocuk.mp4",
+    "options": [
+      {
+        "text": "Çocuktan dolayı",
+        "isTrue": true
+      },
+      {
+        "text": "Motosikletten dolayı",
+        "isTrue": false
+      },
+      {
+        "text": "Arazi arabasından dolayı",
+        "isTrue": false
+      },
+      {
+        "text": "Beyaz arabadan dolayı",
+        "isTrue": false
+      }
+    ]
   }
 ]
