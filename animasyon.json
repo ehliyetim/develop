@@ -1,7 +1,7 @@
 [
   {
     "questionText": "Videodaki tehlikeli durum, sürücülerin hangi kuralı ihlal etmeleri sonucunda oluşmuştur?",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/serit_degistirme.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/serit_degistirme.mp4",
     "options": [
       {
         "text": "Takip mesafesi kuralını",
@@ -24,7 +24,7 @@
   },
   {
     "questionText": "Videoya göre, kırmızı otomobil sürücüsü numaralanmış hatalardan hangilerini yapmaktadır?\nI. Kırmızı ışıkta geçmektedir.\nII. Sağdan gelen yeşil araca ilk geçiş hakkını vermemektedir.\nIII. Girişi olmayan yol bölümüne girmektedir.",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/girisi_olmayan_yol.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/girisi_olmayan_yol.mp4",
     "options": [
       {
         "text": "I ve II",
@@ -47,7 +47,7 @@
   },
   {
     "questionText": "Olay yerindeki araç sürücüsü ilk yardımın temel uygulamalarından hangisini gerçekleştirmektedir?",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/bildirme.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/bildirme.mp4",
     "options": [
       {
         "text": "Bildirme",
@@ -70,7 +70,7 @@
   },
   {
     "questionText": "Sürücünün hangisini yapması doğrudur?",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/bisikletliyi_gecme.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/bisikletliyi_gecme.mp4",
     "options": [
       {
         "text": "Hızını azaltıp şeridinde devam etmesi",
@@ -93,7 +93,7 @@
   },
   {
     "questionText": "Videoya göre, beyaz otomobilin sürücüsü için hangisi kesinlikle söylenir?",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/tiri_ani_gecis.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/tiri_ani_gecis.mp4",
     "options": [
       {
         "text": "Şerit takip ve manevra kurallarına uymadığı",
@@ -116,7 +116,7 @@
   },
   {
     "questionText": "Videodaki sarı minibüsle ilgili hangisi kesinlikle söylenir?",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/duman_arac.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/duman_arac.mp4",
     "options": [
       {
         "text": "Egzozunun arızalı olduğu",
@@ -139,7 +139,7 @@
   },
   {
     "questionText": "Videoya göre, kırmızı otomobil sürücüsü nasıl davranmalıdır?",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/otobus_kirmizi_arac.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/otobus_kirmizi_arac.mp4",
     "options": [
       {
         "text": "Solundaki şeride geçmeli",
@@ -162,7 +162,7 @@
   },
   {
     "questionText": "Videoya göre sürücü nasıl davranmalıdır?",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/hararet_araba.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/hararet_araba.mp4",
     "options": [
       {
         "text": "Trafik kurallarına uygun olarak derhal durmalı",
@@ -185,7 +185,7 @@
   },
   {
     "questionText": "Sağa dönüş yapan kırmızı renkli araç sürücüsü hakkında numaralanmış ifadelerden hangileri kesinlikle söylenir?\nI. Hız sınırlamasına uymadığı\nII. Araç ışıklarını gerekli yerde kullanmadığı\nIII. Kavşaklarda dönme ve dönüş kurallarına uymadığı",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/kirmizi_arac.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/kirmizi_arac.mp4",
     "options": [
       {
         "text": "I ve II",
@@ -208,7 +208,7 @@
   },
   {
     "questionText": "Motosiklet sürücüsü için numaralanmış ifadelerden hangileri kesinlikle söylenebilir?\nI. Can ve mal güvenliğini tehlikeye attığı\nII. İleri sürüş tekniklerine sahip olduğu\nIII. Şerit takip kurallarına uyduğu\nIV. Geçme kurallarına uymadığı",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/motor_surucusu.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/motor_surucusu.mp4",
     "options": [
       {
         "text": "II ve III",
@@ -232,7 +232,7 @@
   {
     "id": "q11",
     "questionText": "Videoya göre, sürücü nasıl bir tehlikenin olabileceğini düşünmelidir?",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/petrol_arac.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/petrol_arac.mp4",
     "options": [
       {
         "text": "Bir aracın benzin istasyonundan yola çıkabileceğini",
@@ -255,7 +255,7 @@
   {
     "id": "q12",
     "questionText": "Araç sürücüsü nasıl davranmalıdır?",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/mor_otobus.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/mor_otobus.mp4",
     "options": [
       {
         "text": "Dörtlü ikaz ışıklarını yakarak beklemeli",
@@ -278,7 +278,7 @@
   {
     "id": "q13",
     "questionText": "Sürücü hakkında hangisi kesinlikle söylenir?",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/yaya_gecme.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/yaya_gecme.mp4",
     "options": [
       {
         "text": "Sabırsız",
@@ -301,7 +301,7 @@
   {
     "id": "q14",
     "questionText": "Videodaki kazayla ilgili hangisi kesinlikle söylenir?",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/yagmur_kaza_arac.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/yagmur_kaza_arac.mp4",
     "options": [
       {
         "text": "Araç sürücüleri takip mesafesine uymaktadır.",
@@ -324,7 +324,7 @@
   {
     "id": "q15",
     "questionText": "Videoya göre hangisinin yapılması doğru olur?",
-    "videoId": "https://pub-5fd4c835933645e4aa07faf5d5c4a838.r2.dev/video/siyah_beyaz_araba.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/siyah_beyaz_araba.mp4",
     "options": [
       {
         "text": "Siyah otomobil sürücüsünün beyaz otomobil sürücüsüne ilk geçiş hakkını vermesi",
@@ -347,7 +347,7 @@
   {
     "id": "q16",
     "questionText": "Bu durumda kalırsak neden durmalıyız?\nI. yol ver işareti yüzünden\nII. Bisiklet yolu ve geçen bisikletli yüzünden\nIII. Sarı kamyon yüzünden",
-    "videoId": "yolver_bisiklet.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/yolver_bisiklet.mp4",
     "options": [
       {
         "text": "Yalnız I",
@@ -370,7 +370,7 @@
   {
     "id": "q17",
     "questionText": "Burada neden yavaşlamalı gerekirse durmalısınız?",
-    "videoId": "cocuk.mp4",
+    "videoId": "https://ehliyetim.github.io/develop/anim/cocuk.mp4",
     "options": [
       {
         "text": "Çocuktan dolayı",
